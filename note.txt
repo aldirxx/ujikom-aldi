@@ -1,0 +1,17 @@
+#Kekurangan aplikasi saw wp
+
+1. Delete Rekomendasi karyawan
+<!-- 2. Penilaian Karyawan Berdasarkan Kriteria diubah me jadi select box (MAS BOY)  (DONE...) -->
+<!-- 3. Tentukan nilai kriteria bedasarkan pilihan 1 s/d 5 (DONE) -->
+<!-- 4. Buat dokumentasi penilaian alternatif bedasarkan kriteria (MAS BOY) (DONE...) -->
+<!-- 5. Data Toko di cek kembali crudnya (MAS BOY) (DONE...) -->
+<!-- 6. Data Bobot, Kriteria, Sub Kriteria, sample link & Sample Modal di comment (MAS BOY) (DONE...) -->
+<!-- 7. Dashboard (MATTIN)
+    - Nanti kita tentukan -->
+<!-- 8. Menu dibuatkan agak bagus dan dikasih icon yg pantas (DONE) -->
+
+(8*30)*12 = 2880 s/d 2500 = Baik Sekali 
+(8*25)*12 = 2880 = Baik
+(8*20)*12 = 2880 = Cukup
+(8*15)*12 = 2880 = 
+(8*10)*12 = 2880 = Baik Sekali
